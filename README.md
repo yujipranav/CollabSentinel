@@ -25,3 +25,6 @@ It automatically records your **screen**, transcribes audio with **Whisper**, an
 ```bash
 git clone https://github.com/<your-username>/Snapdragon_Hackathon.git
 cd Snapdragon_Hackathon
+
+testing
+
